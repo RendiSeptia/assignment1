@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assignment 1</string>
+    <string name="hint_komentar">Masukan Komentar Anda...</string>
+    <string name="button_submit_komentar">Kirim Komentar</string>
+</resources>
